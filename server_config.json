@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"iterate-ui-mcp\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/connorwhite-online-iterate-ui-mcp\"],\"values\":{\"ITERATE_DAEMON_PORT\":{\"type\":\"number\",\"description\":\"iterate daemon port\",\"default\":4000}}}}}"}
